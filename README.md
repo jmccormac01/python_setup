@@ -24,7 +24,7 @@ This script installs all the necessary bits for a new python installation
 
 # Example
 
-To install all Python modules in do the following:
+To install all the Python modules above do the following:
 
 ```
 git clone https://github.com/jmccormac01/python_setup.git
