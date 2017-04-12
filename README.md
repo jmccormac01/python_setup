@@ -1,6 +1,6 @@
-# Python Setup
+# Python Setup via PIP
 
-This script installs all the necessary bits for a new python installation
+This script uses ```pip``` to install all the necessary bits for a new astronomy/stats/webdev based python installation.
 
 # Module List
 
@@ -25,6 +25,7 @@ This script installs all the necessary bits for a new python installation
    1. emcee (Affine-invariant MCMC by [Dan Foreman-Mackey](https://github.com/dfm))
    1. batman (Transiting planet model by [Laura Kriedberg](https://github.com/lkreidberg)
    1. ellc (Eclipsing binary modelling by Pierre Maxted)
+   1. flask ([Mico-framework for Python-based webdev](http://flask.pocoo.org))
 
 # Example
 

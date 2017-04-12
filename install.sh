@@ -20,3 +20,4 @@ pip install george
 pip install emcee
 pip install batman-package
 pip install ellc
+pip install flask
