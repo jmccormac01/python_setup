@@ -8,11 +8,11 @@ This script installs all the necessary bits for a new python installation
    1. scipy
    1. pandas
    1. astropy
-   1. donuts (Autoguider/Image Alignment by [James McCormac](https://github.com/jmccormac01))
    1. pyqt5
    1. matplotlib
    1. sep (SExtractor in Python by [Kyle Barbary](https://github.com/kbarbary))
    1. scikit-image
+   1. donuts (Autoguider/Image Alignment by [James McCormac](https://github.com/jmccormac01))
    1. reproject (Image reprojection by [Thomas Robitaille](https://github.com/astrofrog))
    1. pyregion (DS9 region handling - part of [Astropy](https://github.com/astropy/astropy))
    1. pylint
