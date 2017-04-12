@@ -7,7 +7,6 @@ pip install donuts
 pip install pyqt5
 pip install matplotlib
 pip install sep
-pip install ngtsio
 pip install scikit-image
 pip install reproject
 pip install pyregion
