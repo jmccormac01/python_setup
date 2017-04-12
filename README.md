@@ -17,11 +17,12 @@ This script installs all the necessary bits for a new python installation
    1. reproject
    1. pyregion
    1. pylint
-   1. pyephem
+   1. pyephem (Based on XEphem by [Brandon Rhodes](https://github.com/brandon-rhodes))
    1. jupyter
-   1. jupyterthemes
-   1. ccdproc
-
+   1. jupyterthemes (Themes for Jupyter by [Kyle Dunovan](https://github.com/dunovank))
+   1. ccdproc (part of [Astropy](https://github.com/astropy/astropy))
+   1. statsmodels
+   1. george (Gaussian Process Regression by [Dan Foreman-Mackey](https://github.com/dfm). *Requires Eigen*)
 # Example
 
 To install all the Python modules above do the following:

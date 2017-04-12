@@ -16,4 +16,5 @@ pip install pyephem
 pip install jupyter
 pip install jupyterthemes
 pip install ccdproc
-
+pip install statsmodels
+pip install george
