@@ -17,3 +17,6 @@ pip install jupyterthemes
 pip install ccdproc
 pip install statsmodels
 pip install george
+pip install emcee
+pip install batman-package
+pip install ellc

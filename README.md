@@ -22,6 +22,10 @@ This script installs all the necessary bits for a new python installation
    1. ccdproc (Part of [Astropy](https://github.com/astropy/astropy))
    1. statsmodels
    1. george (Gaussian Process Regression by [Dan Foreman-Mackey](https://github.com/dfm). *Requires Eigen*)
+   1. emcee (Affine-invariant MCMC by [Dan Foreman-Mackey](https://github.com/dfm))
+   1. batman (Transiting planet model by [Laura Kriedberg](https://github.com/lkreidberg)
+   1. ellc (Eclipsing binary modelling by Pierre Maxted)
+
 # Example
 
 To install all the Python modules above do the following:
