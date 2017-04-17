@@ -2,6 +2,7 @@
 pip install numpy
 pip install scipy
 pip install pandas
+pip install xlrd
 pip install astropy
 pip install donuts
 pip install pyqt5

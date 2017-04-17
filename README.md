@@ -7,6 +7,7 @@ This script uses ```pip``` to install all the necessary bits for a new astronomy
    1. numpy
    1. scipy
    1. pandas
+   1. xlrd (used by pandas for handling excel files)
    1. astropy
    1. pyqt5
    1. matplotlib
