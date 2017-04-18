@@ -20,6 +20,8 @@ This script uses ```pip``` to install all the necessary bits for a new astronomy
    1. pyephem (Based on XEphem by [Brandon Rhodes](https://github.com/brandon-rhodes))
    1. jupyter
    1. jupyterthemes (Themes for Jupyter by [Kyle Dunovan](https://github.com/dunovank))
+   1. cython (used for writing C code in Jupyter notebook)
+   1. fortran-magic (used for writing Fortran code in Jupyter notebook)
    1. ccdproc (CCD image reductions - part of [Astropy](https://github.com/astropy/astropy))
    1. statsmodels
    1. george (Gaussian Process Regression by [Dan Foreman-Mackey](https://github.com/dfm). *Requires Eigen*)

@@ -15,6 +15,8 @@ pip install pylint
 pip install pyephem
 pip install jupyter
 pip install jupyterthemes
+pip install cython
+pip install fortran-magic
 pip install ccdproc
 pip install statsmodels
 pip install george
