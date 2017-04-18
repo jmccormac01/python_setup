@@ -24,3 +24,7 @@ pip install emcee
 pip install batman-package
 pip install ellc
 pip install flask
+pip install https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tarball/master
+pip install jupyter_nbextensions_configurator
+jupyter contrib nbextension install --user
+jupyter nbextensions_configurator enable --user
