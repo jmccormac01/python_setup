@@ -9,6 +9,7 @@ This script uses ```pip``` to install all the necessary bits for a new astronomy
    1. pandas
    1. xlrd (used by pandas for handling excel files)
    1. astropy
+   1. astroquery
    1. pyqt5
    1. matplotlib
    1. sep (SExtractor in Python by [Kyle Barbary](https://github.com/kbarbary))

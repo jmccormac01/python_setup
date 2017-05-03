@@ -4,6 +4,7 @@ pip install scipy
 pip install pandas
 pip install xlrd
 pip install astropy
+pip install astroquery
 pip install donuts
 pip install pyqt5
 pip install matplotlib
