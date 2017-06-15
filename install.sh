@@ -11,6 +11,7 @@ pip install matplotlib
 pip install sep
 pip install tensorflow
 pip install tflearn
+pip install gym
 pip install scikit-image
 pip install reproject
 pip install pyregion
