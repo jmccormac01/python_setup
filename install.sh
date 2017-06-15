@@ -9,6 +9,7 @@ pip install donuts
 pip install pyqt5
 pip install matplotlib
 pip install sep
+pip install tensorflow
 pip install scikit-image
 pip install reproject
 pip install pyregion
