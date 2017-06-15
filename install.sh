@@ -10,6 +10,7 @@ pip install pyqt5
 pip install matplotlib
 pip install sep
 pip install tensorflow
+pip install tflearn
 pip install scikit-image
 pip install reproject
 pip install pyregion

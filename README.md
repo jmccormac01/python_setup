@@ -15,6 +15,7 @@ This script uses ```pip``` to install all the necessary bits for a new astronomy
    1. sep (SExtractor in Python by [Kyle Barbary](https://github.com/kbarbary))
    1. scikit-image
    1. tensorflow
+   1. tflearn (high level abstraction for tensor flow)
    1. donuts (Autoguider/Image Alignment by [James McCormac](https://github.com/jmccormac01))
    1. reproject (Image reprojection by [Thomas Robitaille](https://github.com/astrofrog))
    1. pyregion (DS9 region handling - part of [Astropy](https://github.com/astropy/astropy))
