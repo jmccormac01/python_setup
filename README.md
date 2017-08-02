@@ -33,6 +33,7 @@ This script uses ```pip``` to install all the necessary bits for a new astronomy
    1. batman (Transiting planet model by [Laura Kriedberg](https://github.com/lkreidberg)
    1. ellc (Eclipsing binary modelling by Pierre Maxted)
    1. flask ([Micro-framework for Python-based webdev](http://flask.pocoo.org))
+   1. colorama (ANSI colouring for terminal output)
    1. Jupyter nbextensions (add-on manager for Jupyter notebook)
 
 # Example
